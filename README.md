@@ -1,6 +1,7 @@
 ### Estrutura dos arquivos
 
-- routeConfig.js          // Onde sera armazenado nossa aplicação
+- js
+  ----- routeConfig.js          // Onde sera armazenado nossa aplicação
 - index.html         // Layout principal
 - pages              // Onde ficará localizado nossas páginas
   ----- home.html
